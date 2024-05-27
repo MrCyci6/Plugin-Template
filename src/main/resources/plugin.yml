@@ -1,0 +1,7 @@
+name: CloudAtouts
+version: 1.0.0
+author: MrCyci6
+main: fr.mrcyci6.atouts.AssetPlugin
+commands:
+  atout:
+    aliases: [atouts, asset, assets]

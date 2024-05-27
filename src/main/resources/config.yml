@@ -1,0 +1,19 @@
+# [!] Développé par MrCyci6 et conçu uniquement pour l'utilisateur Indetectable_.
+#
+# Info : Plugin privé & serveurs de Indetectable_.
+# Owner : Indetectable_
+#
+# - Plugin: Système d'atouts
+
+# - Placeholders -
+#
+# %assets_status_<asset>% -> Affiche si le joueur possède tel atout.
+# %assets_toggle_status_<asset>% -> Affiche pour le joueur si tel atout est activé ou désactivé.
+
+# Mettre le plugin compatible avec Vault (logiquement)
+# vu que y aura une petite option d'achat directement (optionnel)
+# & PlaceholderAPI (pour des placeholders)
+# & WorldGuard pour pouvoir blacklist (désactiver) des atouts dans des régions.
+
+# Un simple plugin de système d'atouts (atouts permanents).
+# Il y a pour l'instant 3 atouts: Force, Speed & Fire_Resistance.
